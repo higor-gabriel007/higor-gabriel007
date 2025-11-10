@@ -1,4 +1,4 @@
-## Hi there 👋, I'am Higor Gabriel
+## Olá 👋, Eu sou Higor Gabriel
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-gabriel007&show_icons=true&theme=tokyonight)
