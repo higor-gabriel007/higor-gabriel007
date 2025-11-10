@@ -6,5 +6,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,react,mysql)](https://skillicons.dev)
 
-//*<img src="https://raw.githubusercontent.com/Vitor5236/Vitor5236/output/snake.svg" alt="Snake animation" />*//
+
 
