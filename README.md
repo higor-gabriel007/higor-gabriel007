@@ -1,8 +1,8 @@
 ## Olá 👋, Eu sou Higor Gabriel
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-gabriel007&show_icons=true&theme=neon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gabriel007&hide_progress=true&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-gabriel007&show_icons=true&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gabriel007&hide_progress=true&theme=holi)
 
 ## My Skills
 <div style="display: inline_block"><br>
