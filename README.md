@@ -1,6 +1,10 @@
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=3d6b99&section=header&reversal=false">
-
+<div align=center>   
+       
 ## Olá 👋, Eu sou Higor Gabriel
+
+</div>
+
 
 <br>
        
