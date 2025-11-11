@@ -4,11 +4,11 @@
 
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=higor-gabriel007&show_icons=true&count_private=true&rank_icon=github&theme=transparent&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gabriel007&layout=compact&font=Iosevka&langs_count=16&theme=transparent"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=higor-gabriel007&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gabriel007&layout=compact&font=Iosevka&langs_count=16&theme=react"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higor-gabriel007&theme=transparent"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higor-gabriel007&theme=react"/>
 </div>
 
 ## My Skills
