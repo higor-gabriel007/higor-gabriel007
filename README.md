@@ -32,14 +32,13 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gabriel007&layout=compact&font=Iosevka&langs_count=16&theme=react"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higor-gabriel007&theme=react"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Higor Guedes&theme=react"/>
 
  <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=klaytonmendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=klaytonmendes&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Higor Guedes&theme=react&hide_border=true" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Higor Guedes&layout=compact&theme=react&hide_border=true" />
 </p>
 
 </div>
