@@ -1,10 +1,9 @@
-<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=3d6b99&section=header&reversal=false">
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=3d6b99&section=header&reversal=false">
 <div align=center>   
        
 ## Olá 👋, Eu sou Higor Gabriel
 
 </div>
-
 
 <br>
        
@@ -28,18 +27,9 @@
 <br>
   
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=higor-gabriel007&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gabriel007&layout=compact&font=Iosevka&langs_count=16&theme=react"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Higor Guedes&theme=react"/>
-
- <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Higor Guedes&theme=react&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Higor Guedes&layout=compact&theme=react&hide_border=true" />
-</p>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Higor-Gabriel&theme=tokyonight"/>
 
 </div>
 
