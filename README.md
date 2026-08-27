@@ -33,6 +33,15 @@
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higor-gabriel007&theme=react"/>
+
+ <p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=klaytonmendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=klaytonmendes&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 </div>
 
 
